@@ -1,0 +1,12 @@
+c:\users\p501\documents\visual studio 2017\Projects\xestexana\xestexana\bin\Debug\xestexana.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\xestexana\xestexana\bin\Debug\xestexana.exe
+c:\users\p501\documents\visual studio 2017\Projects\xestexana\xestexana\bin\Debug\xestexana.pdb
+c:\users\p501\documents\visual studio 2017\Projects\xestexana\xestexana\obj\Debug\xestexana.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\xestexana\xestexana\obj\Debug\xestexana.exe
+c:\users\p501\documents\visual studio 2017\Projects\xestexana\xestexana\obj\Debug\xestexana.pdb
+C:\Users\Hesen\Desktop\xekimler-master\xestexana\xestexana\obj\Debug\xestexana.csprojResolveAssemblyReference.cache
+C:\Users\Hesen\Desktop\xekimler-master\xestexana\xestexana\obj\Debug\xestexana.exe
+C:\Users\Hesen\Desktop\xekimler-master\xestexana\xestexana\obj\Debug\xestexana.pdb
+C:\Users\Hesen\Desktop\xekimler-master\xestexana\xestexana\bin\Debug\xestexana.exe.config
+C:\Users\Hesen\Desktop\xekimler-master\xestexana\xestexana\bin\Debug\xestexana.exe
+C:\Users\Hesen\Desktop\xekimler-master\xestexana\xestexana\bin\Debug\xestexana.pdb
